@@ -2,3 +2,6 @@
   display: grid;
   justify-content: center;
 }
+body {
+  background: #95a5a6;
+}
